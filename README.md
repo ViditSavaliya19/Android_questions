@@ -69,4 +69,11 @@
 10. What is different between Volley and Retrofit.
 11. Expain api calling using Retrofit library.
 
-### Firebase
+### Kotlin Coroutines & Service 
+
+1. What is MVVM architecture?
+2. What is kotlin coroutines?
+3. Expain Kotlin cotoutines in detail.
+4. What is use of Broadcast Receiver.
+5. Define background services of android.
+6. What is service in android and Expain lifecycle  of service.
